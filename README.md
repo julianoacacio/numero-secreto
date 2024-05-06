@@ -5,4 +5,3 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 # Autores
-![WhatsApp Image 2024-05-06 at 14 13 12](https://github.com/julianoacacio/numero-secreto/assets/168584197/87637d52-361b-4227-bdfe-6985b98e81a0)
